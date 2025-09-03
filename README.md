@@ -28,10 +28,15 @@ Actualmente, he decidido expandir mis horizontes a la ciberseguridad a través d
 
 ### Proyectos Destacados <img width="30" height="30" alt="5956592" src="https://github.com/user-attachments/assets/806f4955-df5b-437e-bb23-a29973e3b6b0" /> 
 
--   **[Nombre del Proyecto 1]**
-    * Una descripción breve de lo que hace el proyecto y lo que aprendiste.
--   **[Nombre del Proyecto 2]**
-    * Una descripción breve de lo que hace el proyecto y las tecnologías que usaste.
+-   **Análisis de Vulnerabilidades y Comportamiento de Red**
+    * Documentar y analizar el comportamiento de la red corporativa de Desafío Latam desde el punto de vista de la seguridad. Se emplean herramientas de escaneo y captura de tráfico para identificar posibles vulnerabilidades, el estado de la conectividad en la red y patrones de tráfico anómalos.
+    * [Ver Informe](https://github.com/carlosaliendres/carlosaliendres/blob/7dfc7107abb49f248f94075210c338cd26904bc3/Proyectos/Prueba%20Final%20Modulo%207%20-%20Carlos%20Aliendres.pdf)
+-   **Analisis de Seguridad en Redes de Datos**
+    *  Análisis de tráfico y pruebas de conectividad que permita evaluar el comportamiento de la red desde el punto de vista de seguridad, así como la identificación de patrones de tráfico y posibles anomalías.
+    *  [Ver Informe](https://github.com/carlosaliendres/carlosaliendres/blob/7dfc7107abb49f248f94075210c338cd26904bc3/Proyectos/Prueba_-_Anlisis_de_Seguridad_en_Redes_de_Datos%20Carlos%20Aliendres.pdf)
+-   **Documentación y Reportes de Hallazgos de Seguridad**
+    *  Hallazgos de la evaluación de seguridad realizada al sitio http://testfire.net/ con Nessus.
+    *  [Ver Informe](https://github.com/carlosaliendres/carlosaliendres/blob/7dfc7107abb49f248f94075210c338cd26904bc3/Proyectos/Prueba%20Final%20Modulo%208%20-%20Carlos%20Aliendres.pdf)
 
 ---
 
