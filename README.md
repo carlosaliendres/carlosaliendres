@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/ID-DEL-USUARIO?v=4" width="150" alt="Tu foto de perfil">
+  <img src="https://avatars.githubusercontent.com/u/229861498?v=4" width="150" alt="Tu foto de perfil">
   <h1>Hola, soy Carlos Aliendres 👋</h1>
 </div>
 
@@ -13,7 +13,7 @@ Actualmente, he decidido expandir mis horizontes a la ciberseguridad a través d
 
 ### 🌐 Mis Redes
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tu-usuario-linkedin/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/carlos-aliendres/) 
 
 ---
 
