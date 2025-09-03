@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/229861498?v=4" width="150" alt="Tu foto de perfil">
-  <h1>Hola, soy Carlos Aliendres 👋</h1>
+  <img src="https://avatars.githubusercontent.com/u/229861498?v=4" width="180" alt="Tu foto de perfil">
+  <h1>Hola, soy Carlos Aliendres <img width="30" height="30" alt="images" src="https://github.com/user-attachments/assets/502693ca-ef12-4287-8355-a289218ca170" />
+</h1>
 </div>
 
-### Ingeniero informático y Gestor de Proyectos de Telecomunicaciones.
+### Ingeniero informático y Gestor de Proyectos de Telecomunicaciones. <img width="50" height="50" alt="images" src="https://github.com/user-attachments/assets/89ba019f-fed3-43e5-af8b-1e090083aaad" />
 
 Soy un ingeniero informático de Santiago, Chile, en una constante búsqueda de desafíos. Mi carrera se ha forjado en el ámbito de las telecomunicaciones, donde me he dedicado a la evaluación y gestión de proyectos de infraestructura de red. Cada levantamiento técnico y cada plan de seguimiento me han enseñado a identificar problemas y a encontrar soluciones efectivas.
 
@@ -11,21 +12,21 @@ Actualmente, he decidido expandir mis horizontes a la ciberseguridad a través d
 
 ---
 
-### 🌐 Mis Redes
+### Mis Redes 🌐
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/carlos-aliendres/) 
+<img width="30" height="30" alt="3536505" src="https://github.com/user-attachments/assets/22432b27-1603-4d0b-8857-dcf9e1093704" /> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/carlos-aliendres/) 
 
 ---
 
-### 🛠️ Habilidades Técnicas
+### Habilidades <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/9a9730a5-21fa-44c5-988e-0d7d40fcb5f6" /> 
 
 * **Seguridad:** Análisis de Vulnerabilidades, Pentesting, Seguridad en Redes
 * **Herramientas:** Nmap, Wireshark, Metasploit
-* **Plataformas:** Linux, Windows
+* **Plataformas:** Linux, Windows, Cisco, Ubiquiti, Fortinet, Avaya
 
 ---
 
-### 📂 Proyectos Destacados
+### Proyectos Destacados <img width="30" height="30" alt="5956592" src="https://github.com/user-attachments/assets/806f4955-df5b-437e-bb23-a29973e3b6b0" /> 
 
 -   **[Nombre del Proyecto 1]**
     * Una descripción breve de lo que hace el proyecto y lo que aprendiste.
@@ -34,44 +35,15 @@ Actualmente, he decidido expandir mis horizontes a la ciberseguridad a través d
 
 ---
 
-### 🌱 Estoy Aprendiendo
+### Estoy Aprendiendo <img width="30" height="30" alt="6679596" src="https://github.com/user-attachments/assets/84e1ee7d-37db-412b-899d-fc9ac8259bf5" />  
 
 * Análisis de Malware
 * Seguridad en Redes Corporativas
 
 ---
 
-### 💬 Contáctame
+### Contáctame <img width="30" height="30" alt="732200" src="https://github.com/user-attachments/assets/efd3ff71-111a-44a3-abcb-72437cb6dbeb" /> 
 
-* Email: carlosaaliendresj@gmail.com
-
-
+* Email:  carlosaaliendresj@gmail.com
 
 
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    Portafolio de Ciberseguridad
-</head>
-<body>
-    <h1>¡Hola! Soy Carlos Aliendres</h1>
-    <p>Bienvenido a mi portafolio profesional, donde presento mis proyectos y habilidades en ciberseguridad.</p>
-    <p>Estoy trabajando en esta página. ¡Vuelve pronto para ver más!</p>
-</body>
-</html>
-<!--
-**carlosaliendres/carlosaliendres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
